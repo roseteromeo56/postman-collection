@@ -96,6 +96,9 @@
  develop
  develop
     "eslint-plugin-lodash": "^8.0.0",
+ dependabot/npm_and_yarn/eslint-plugin-mocha-11.1.0
+    "eslint-plugin-mocha": "^11.1.0",
+    
  dependabot/npm_and_yarn/eslint-plugin-n-17.18.0
     "eslint-plugin-mocha": "^10.5.0",
  dependabot/npm_and_yarn/eslint-plugin-n-17.19.0
@@ -107,6 +110,7 @@
     "eslint-plugin-n": "^17.18.0",
 
     "eslint-plugin-mocha": "^11.0.0",
+ develop
     "eslint-plugin-n": "^16.6.2",
  develop
  develop
