@@ -112,10 +112,14 @@
     "eslint-plugin-mocha": "^11.0.0",
  develop
     "eslint-plugin-n": "^16.6.2",
+ dependabot/npm_and_yarn/eslint-plugin-security-3.0.1
+    "eslint-plugin-security": "^3.0.1",
+
  develop
  develop
  develop
     "eslint-plugin-security": "^2.1.1",
+ develop
     "js-yaml": "^4.1.0",
     "jsdoc": "^4.0.4",
     "karma": "^6.4.4",
